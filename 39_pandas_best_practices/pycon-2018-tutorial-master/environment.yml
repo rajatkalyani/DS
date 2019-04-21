@@ -1,7 +1,0 @@
-name: pycon-2018-tutorial
-channels:
-  - defaults
-dependencies:
-  - pandas
-  - numpy
-  - matplotlib
